@@ -1,5 +1,5 @@
 # imacd
-A Golang implementation of LazyBear's IMACD indicator on TradingView
+A Golang implementation of [LazyBear's IMACD](https://www.tradingview.com/v/qt6xLfLi/) indicator on TradingView
 
 ## Disclaimer
 This is just a port of the indicator from TradingView to Golang. I made it as a learning exercise and not as a production ready indicator. Use at your own risk.
