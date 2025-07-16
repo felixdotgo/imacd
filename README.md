@@ -5,7 +5,10 @@ A Golang implementation of [LazyBear's IMACD](https://www.tradingview.com/v/qt6x
 This is just a port of the indicator from TradingView to Golang. I made it as a learning exercise and not as a production ready indicator. Use at your own risk.
 
 ## Example
-Query price candles from Binance API for BTCUSDT with 1h interval for the last 31 days.
+Query price candles from Binance API for BTCUSDT with 1h interval for the last 31 days. Output result will match Precison=0 on TradingView
+
+<img width="383" height="222" alt="image" src="https://github.com/user-attachments/assets/41136066-a30a-41d4-a6da-113ebf4e33c2" />
+
 ```go
 package main
 
